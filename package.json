@@ -1,0 +1,18 @@
+{
+  "name": "hulo_login_system",
+  "version": "1.0.0",
+  "description": "a login system for hulo using mongodb,node_passport, and nodejs",
+  "main": "app.js",
+  "author": "Aaron Mayor",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.2",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.2.2",
+    "nodemon": "^2.0.15",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  }
+}
